@@ -1,0 +1,26 @@
+{
+  "ZAR": {
+    "Maize": {
+      "Gauteng": 3580.50,
+      "Western Cape": 3650.75,
+      "KwaZulu-Natal": 3520.25,
+      "Free State": 3480.00,
+      "Eastern Cape": 3600.50,
+      "Mpumalanga": 3550.25,
+      "Limpopo": 3620.75,
+      "North West": 3500.00,
+      "Northern Cape": 3580.25
+    },
+    "Wheat": {
+      "Gauteng": 4250.00,
+      "Western Cape": 4180.50,
+      "KwaZulu-Natal": 4320.25,
+      "Free State": 4150.75,
+      "Eastern Cape": 4280.00,
+      "Mpumalanga": 4220.50,
+      "Limpopo": 4300.25,
+      "North West": 4180.75,
+      "Northern Cape": 4250.00
+    }
+  }
+} 
